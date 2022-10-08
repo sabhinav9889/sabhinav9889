@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhinav-singh-50aa74200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhinav-singh-50aa74200/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abhinav-singh-50aa74200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinav-singh-50aa74200" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/camlot_9889e" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="camlot_9889e" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sabhinv9889" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sabhinv9889" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sabhinav9889" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sabhinav9889" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/camlot_e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="camlot_e" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/camlot_9889e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="camlot_9889e" height="30" width="40" /></a>
 </p>
