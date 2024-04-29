@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhinav Singh</h1>
-<h3 align="center">A passionate programmer and frontend developer from India</h3>
+<h3 align="center">A passionate programmer and web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabhinav9889&label=Profile%20views&color=0e75b6&style=flat" alt="sabhinav9889" /> </p>
 
@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **React, node js**
 
-- 💬 Ask me about **DSA and development**
+- 💬 Ask me about **DSA and web development**
 
-- 📫 How to reach me **sabhinav.9889@gmail.com**
+- 📫 How to reach me **[Abhinav Singh](https://www.linkedin.com/in/abhinav-singh-50aa74200/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
